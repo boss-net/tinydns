@@ -8,8 +8,8 @@ github.com/bits-and-blooms/bitset v1.8.0 h1:FD+XqgOZDUxxZ8hzoBFuV9+cGWY9CslN6d5M
 github.com/bits-and-blooms/bloom/v3 v3.5.0 h1:AKDvi1V3xJCmSR6QhcBfHbCN4Vf8FfxeWkMNQfmAGhY=
 github.com/boss-net/gocipher v0.0.1 h1:DRc5IGDf2r891E57kfDvrASD+0zFRqGy2Ykdx8jbbYA=
 github.com/boss-net/gocipher v0.0.1/go.mod h1:sXVyRxAesQ8xZQh+u9yw0NqoZihmmaLy9GrtRRgpTm0=
-github.com/boss-net/goflags v0.0.0-20230627145933-719c888a723f h1:/OohmdS8BLlGgOpwA9tSnJlG8LkVaNookOBRzE/3quU=
-github.com/boss-net/goflags v0.0.0-20230627145933-719c888a723f/go.mod h1:OPmFa7A6wr7u+zWy+1PtNadL87+uxOUiyMhPVAs6F18=
+github.com/boss-net/goflags v0.0.1 h1:3o9NNFOg1qX3rLqW6EBKiD5u/JGmXewy9yVrOCafSOA=
+github.com/boss-net/goflags v0.0.1/go.mod h1:OPmFa7A6wr7u+zWy+1PtNadL87+uxOUiyMhPVAs6F18=
 github.com/boss-net/gologger v0.0.1 h1:QFbsefMOKVS46LzBlgkeC3HwHKcbC4xhNFW6LiBenbU=
 github.com/boss-net/gologger v0.0.1/go.mod h1:QcvUWYDtGLXkGgWvYo650VmUqyX1bFF6tMPzYJBAuGg=
 github.com/boss-net/goutils v0.0.1 h1:lCMKYcnlYVtp2YaVo+XzknKqkH1IOVspZSera3c7n/U=

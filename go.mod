@@ -3,7 +3,7 @@ module github.com/boss-net/tinydns
 go 1.19
 
 require (
-	github.com/boss-net/goflags v0.0.0-20230627145933-719c888a723f
+	github.com/boss-net/goflags v0.0.1
 	github.com/boss-net/gologger v0.0.1
 	github.com/boss-net/goutils v0.0.1
 	github.com/boss-net/hmap v0.0.1
